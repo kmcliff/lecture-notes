@@ -1,4 +1,4 @@
 Something about functions.
 
 Yippee
-![[test drawing.excalidraw.svg]]
+![[Excalidraw/test drawing.excalidraw.svg]]
